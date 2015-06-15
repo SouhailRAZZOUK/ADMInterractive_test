@@ -1,0 +1,6 @@
+c:\users\leito\documents\visual studio 2013\Projects\ADMInteractive_Solution\ADMInteractive_Solution\bin\ADMInteractive_Solution.dll.config
+c:\users\leito\documents\visual studio 2013\Projects\ADMInteractive_Solution\ADMInteractive_Solution\bin\ADMInteractive_Solution.dll
+c:\users\leito\documents\visual studio 2013\Projects\ADMInteractive_Solution\ADMInteractive_Solution\bin\ADMInteractive_Solution.pdb
+c:\users\leito\documents\visual studio 2013\Projects\ADMInteractive_Solution\ADMInteractive_Solution\obj\Debug\ADMInteractive_Solution.csprojResolveAssemblyReference.cache
+c:\users\leito\documents\visual studio 2013\Projects\ADMInteractive_Solution\ADMInteractive_Solution\obj\Debug\ADMInteractive_Solution.dll
+c:\users\leito\documents\visual studio 2013\Projects\ADMInteractive_Solution\ADMInteractive_Solution\obj\Debug\ADMInteractive_Solution.pdb
